@@ -8,21 +8,21 @@
 stgitdev/stgitdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Stanley George
+# 👋 Hi, 𝗜'𝗺 Stanley George
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/stanleygeorge)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-@stgitdev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/stgitdev)
+[![](https://img.shields.io/badge/-@stgitdev-%23181717?style=flat-square&logo=github)](https://github.com/stgitdev)
+[![](https://img.shields.io/badge/-@stgitdev-%23000000?style=flat-square&logo=codepen)](https://codepen.io/stgitdev)
+[![](https://img.shields.io/badge/-@stgitdev-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/stgitdev)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://stgitdev.me)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
+:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 and React Native 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
 
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/stgitdev/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
+:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [home_assessments](http://github.com/stgitdev/home_assessments) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
