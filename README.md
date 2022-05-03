@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![stgitdev's github stats](https://github-readme-stats.vercel.app/api?username=stgitdev&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=stgitdev&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stgitdev&hide=TeX&layout=compact)
 
